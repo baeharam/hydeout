@@ -7,6 +7,7 @@ title:            배하람의 블로그
 tagline:          'A Jekyll theme'
 description:      '배움에는 끝이 없다.'
 url:              https://baeharam.github.io
+locale:          	'ko'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -15,9 +16,8 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           '배하람'
   url:            https://twitter.com/fongandrewc
-	locale:         'ko'
 
 paginate:         5
 # paginate_path:    '/page:num'
