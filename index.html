@@ -2,3 +2,17 @@
 layout: index
 title: Home
 ---
+
+
+{% for post in site.posts %}
+    <div class="home-post-list">
+        <h4><a href="{{ post.url }}" class="link-post_list">{{ post.title }}</a></h4>        
+        <p class="post-meta">
+            {{ post.date | date: "%b %d, %Y" }} by {{ post.author }}
+        </p>
+        <div class="post-list-content">
+            {{ post.excerpt | string_html | truncatewords: 45 | strip_newlines }}
+            <p class="text-right"><a href="{{ post.url }}">read more...</a></p>
+        </div>
+    </div>
+{% endfor %}
