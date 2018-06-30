@@ -37,4 +37,4 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 github:
   repo:             https://github.com/baeharam/baeharam.github.io
-disqus: 'baeharam'
+disqus:             baeharam
