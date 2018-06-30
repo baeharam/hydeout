@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://baeharam.github.io/sitemap.xml
