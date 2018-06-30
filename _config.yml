@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            배하람의 블로그
+title:            배하람
 tagline:          'A Jekyll theme'
 description:      '배움에는 끝이 없다.'
 url:              https://baeharam.github.io
@@ -19,7 +19,6 @@ disqus:
 
 author:
   name:           '배하람'
-  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -31,7 +30,6 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.7.0
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
