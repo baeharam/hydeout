@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 안드로이드 개념
+title: Android
 category: Android
 ---
