@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            배하람
 tagline:          'A Jekyll theme'
-description:      '배움에는 끝이 없다.'
+description:      '<small>"Talk is cheap.<br>Show me the code"<br>Linus Torvalds<br><a href="https://github.com/baeharam/TIL">TIL</a>을 위한 블로그.</small>'
 url:              https://baeharam.github.io
 locale:          	'ko'
 baseurl:          ''
