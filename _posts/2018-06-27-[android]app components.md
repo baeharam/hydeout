@@ -1,6 +1,7 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]앱 컴포넌트"
 ---
 
 # 컴포넌트 기반 개발

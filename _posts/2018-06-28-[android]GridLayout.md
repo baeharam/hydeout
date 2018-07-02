@@ -1,9 +1,8 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]GridLayout"
 ---
-
-# GridLayout
 
 GridLayout은 뷰를 다음과 같이 테이블 구조로 나열하는 형태이다.
 

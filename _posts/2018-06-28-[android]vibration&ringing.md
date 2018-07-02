@@ -1,6 +1,7 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]진동과 소리"
 ---
 
 # 진동 울리기

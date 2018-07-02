@@ -1,9 +1,8 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]Relative Layout"
 ---
-
-# RelativeLayout
 
 특정 뷰를 기준으로 뷰의 위치를 지정하는 Layout으로 상대적인 위치를 지정하는 속성값들을 가진다.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]다이얼로그"
 ---
 
 # 토스트(Toast)

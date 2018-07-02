@@ -1,9 +1,8 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]LinearLayout"
 ---
-
-# LinearLayout
 
 LinearLayout은 안드로이드에서 제공하는 기본 Layout 클래스 중에 하나로 상당히 많이 활용된다고 한다. 
 

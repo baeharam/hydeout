@@ -1,6 +1,7 @@
 ---
 layout: post
 category: dart
+title: "[Dart]변수와 타입"
 ---
 
 # 변수선언

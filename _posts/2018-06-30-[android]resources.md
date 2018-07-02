@@ -1,6 +1,7 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]리소스"
 ---
 
 # 리소스

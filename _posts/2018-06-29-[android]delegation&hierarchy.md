@@ -1,6 +1,7 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]Delegation/Hierarchy 모델"
 ---
 
 # 델리게이션 이벤트 모델

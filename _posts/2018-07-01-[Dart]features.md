@@ -1,9 +1,8 @@
 ---
 layout: post
 category: dart
+title: "[Dart]특이한 특징들"
 ---
-
-# Dart의 특이한 특징들
 
 ## / 연산자와 ~/ 연산자
 

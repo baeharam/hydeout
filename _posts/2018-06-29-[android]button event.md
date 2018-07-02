@@ -1,9 +1,8 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]버튼 클릭시 이벤트 처리하기"
 ---
-
-# 버튼 클릭시 이벤트 처리하기
 
 [JIZARD](http://jizard.tistory.com/9) 님에게 모든 출처가 있습니다.
 

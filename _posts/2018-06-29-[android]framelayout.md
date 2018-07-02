@@ -1,9 +1,8 @@
 ---
 layout: post
 category: Android
+title: "[안드로이드]FrameLayout"
 ---
-
-# FrameLayout
 
 FrameLayout은 레이아웃에 포함된 뷰들을 같은 영역에 겹쳐서 배치할 때 사용하며 레이아웃 자체의 특별한 속성은 없다.
 
