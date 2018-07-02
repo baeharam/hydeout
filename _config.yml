@@ -16,7 +16,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 disqus:
    shortname: baeharam
-
+google_analytics: UA-121633022-1
 author:
   name:           '배하람'
 
