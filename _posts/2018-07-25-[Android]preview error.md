@@ -1,7 +1,7 @@
 ---
 layout: post
-category: android
-title: "[Android]안드로이드 스튜디오 미리보기 에러"
+category: Android
+title: "[안드로이드]안드로이드 스튜디오 미리보기 에러"
 ---
 
 안드로이드 스튜디오에서 레이아웃 작업을 할 때 XML로 직접 하던지 아니면 마우스로 하던지 할 텐데 처음 프로젝트를 생성하면 미리보기가 안될 때가 있다. 계속 까먹어서 이참에 그냥 정리해보기로 하고 쓴다. `res\values\styles.xml` 파일에 들어가보면 아래 코드가 나온다.

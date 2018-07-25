@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Alogrithm
+category: Algorithm
 title: "[자료구조]세그먼트 트리"
 ---
 
