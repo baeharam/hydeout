@@ -35,7 +35,7 @@ A와 B는 R의 bandwidth를 가진 회선을 공유한다. 여기서 sending rat
 
 
 
-#Congestion이 발생하는 상황 2
+# Congestion이 발생하는 상황 2
 
 * 라우터가 제한된 버퍼 사이즈를 가짐
 * Sender는 타임아웃이 되면 TCP처럼 재전송을 한다.
@@ -52,7 +52,7 @@ A와 B는 R의 bandwidth를 가진 회선을 공유한다. 여기서 sending rat
 
 
 
-#Congestion이 발생하는 상황 3
+# Congestion이 발생하는 상황 3
 
 보다 현실적인 모델을 보자. 이번엔 라우터가 여러개있는 경우이다.
 
