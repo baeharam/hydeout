@@ -4,8 +4,6 @@ category: Android
 title: "[안드로이드]서비스가 필요한 이유"
 ---
 
-# 서비스가 필요한 이유
-
 [될 때까지 안드로이드](https://www.youtube.com/watch?v=8PJ12A1C35M) 강의를 정리한 내용입니다.
 
 # 쓰레드를 쓸 경우
