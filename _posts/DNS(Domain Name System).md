@@ -1,8 +1,14 @@
+---
+layout: post
+category: Network
+title: "[네트워크]DNS(Domain Name System)"
+---
+
 [한양대학교 네트워크 강의](http://www.kocw.net/home/search/kemView.do?kemId=1169634)와 [Top-down approach](http://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf)를 정리 및 참고한 것입니다.
 
 추가 : [How a DNS Server works?](https://www.youtube.com/watch?v=mpQZVYPuDGU) 강의가 상당히 괜찮다. 까먹으면 꼭 보자.
 
-# DNS(Domain Name System) 기본
+# 기본 개념
 
 실제로 사람이 쓰기 위해 만든 것으로 원래는 프로세스간의 소켓 통신이다. 따라서 IP주소와 포트번호를 통해 통신을 하는데 웹서버의 경우 포트번호가 거의 80번으로 고정되어 있기 때문에, www.naver.com:80이라고 했을 때, 포트번호를 제외한 나머지 부분이 IP주소로 바뀌게 된다. 이걸 담당해주는 것이 DNS라는 시스템이다.
 
