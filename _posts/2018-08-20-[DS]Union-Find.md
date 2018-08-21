@@ -44,7 +44,7 @@ int find(int p)
 }
 ```
 
-아예 부모 vertex를 root vertex로 바꿔버려서 한번에 찾게 하는 방법이다. 이 방법을 **<span color:"red">경로 압축(path compression)</span>**이라고 한다.
+아예 부모 vertex를 root vertex로 바꿔버려서 한번에 찾게 하는 방법이다. 이 방법을 **<span style="color:red">경로 압축(path compression)</span>**이라고 한다.
 
 <br>
 
@@ -69,12 +69,12 @@ void uni(int p, int q)
     p = find(p);
     q = find(q);
     if(rank[p] < rank[q]) parent[p] = q;
-    else if(rank[p] > rank[q]) parent[q] = p;
+    else parent[q] = p;
     if(rank[p] == rank[q]) rank[p]++;
 }
 ```
 
-rank가 의미하는 것은 tree의 높이이며 skewed tree를 방지하기 위해서 높이를 비교한 후 부모-자식 관계를 정의한다. 두 tree의 높이가 같을 경우 어떻게 합치든 높이는 반드시 1 증가한다. 하지만 높이가 다를 경우, **<span color:"red">높이가 큰 tree에 작은 높이의 tree를 합치면 높이는 증가하지 않을 것이다.</span>** 이렇게 좀 더 균형있는 tree를 만들 수 있다. 이 방법을 **<span color:"red">Union by Rank</span>**라고 부른다.
+rank가 의미하는 것은 tree의 높이이며 skewed tree를 방지하기 위해서 높이를 비교한 후 부모-자식 관계를 정의한다. 두 tree의 높이가 같을 경우 어떻게 합치든 높이는 반드시 1 증가한다. 하지만 높이가 다를 경우, **<span style="color:red">높이가 큰 tree에 작은 높이의 tree를 합치면 높이는 증가하지 않을 것이다.</span>** 이렇게 좀 더 균형있는 tree를 만들 수 있다. 이 방법을 **<span style="color:red">Union by Rank</span>**라고 부른다.
 
 <br>
 
